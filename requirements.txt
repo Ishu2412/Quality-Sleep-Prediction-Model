@@ -3,4 +3,3 @@ fastapi
 pydantic
 catboost
 pandas
-os
